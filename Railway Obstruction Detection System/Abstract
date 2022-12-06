@@ -1,0 +1,12 @@
+The aim of the project is to implement an obstacle detection system and alerting the driver of the vehicle using different sensors and IOT. 
+Our objective is to implement ultrasonic sensors which will be mounted on the railway track when the obstacle comes in between an alert is provided to the driver
+and concerned authority. A computer interface is enabled to the driver so that the collision can be avoided with accurate measurement of the obstacle distance. 
+The problem statement has several geographical difficulties and many more in the implementation of the project. 
+The main aim of the project is the smooth running of the railways with proper obstacle detection in a smart manner. 
+The main objective of the project is to develop a device which basically detects the obstacle and tries to alert the driver to avoid major rail accidents. 
+The data is then processed by the Arduino system in order to generate an alert. The sensors which is being used in the implementation of the project usually 
+identifies the obstacle around the railway track. The data is processed by the main system in order to provide proper support. 
+In the graphical user interface if the obstacle comes in the range an alert will be provided to the driver. 
+The ultrasonic sensor usually works in the range of 2cm to 400cm. This paper broadly discuss the obstacle detection using sensors and IOT. 
+This project measures the distance of the obstacle using the ultrasonic sensor which usually detects the obstacle and then Arduino processes the data and an alert is
+being generated to driver in order to avoid the possible accidents.
